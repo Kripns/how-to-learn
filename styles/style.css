@@ -72,7 +72,7 @@
   z-index: 1;
 }
 
-.link {
+.header__link {
   text-decoration: none;
   color: #2f80ed;
 }
@@ -223,6 +223,8 @@
   position: absolute;
   top: 50%;
   right: 48px;
+  text-decoration: none;
+  color: #2f80ed;
 }
 
 .feynman__pic {
