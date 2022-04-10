@@ -187,12 +187,9 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin: 0 auto;
+  margin: 20px auto 0;
 }
 
-.table__text:first-of-type {
-  padding: 20px 0;
-}
                                           /*ниже стили для блока Фейнман*/
 
 .feynman {
@@ -280,10 +277,6 @@
 
 .table__text_theme_dark {
   z-index: 1;
-}
-
-.table__text_theme_dark:first-of-type {
-  padding-bottom: 0;
 }
 
 .kaufman__triangle {
