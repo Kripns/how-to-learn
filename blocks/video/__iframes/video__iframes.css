@@ -1,4 +1,9 @@
-.video__iframes:first-of-type {
+.video__iframes {
+  display: flex;
   position: relative;
   top: 50px;
+}
+
+.video__iframes .video__iframe:first-child {
+  padding-right: 20px;
 }

@@ -2,6 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
+  align-items: flex-start;
   width: 920px;
   list-style-type: none;
   margin: 0;
