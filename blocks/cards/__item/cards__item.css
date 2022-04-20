@@ -3,13 +3,9 @@
   flex-direction: column;
   justify-content: center;
   width: min-content;
-
 }
 
-.cards__item:nth-of-type(2) {
+.cards__item:nth-of-type(3n+2) {
   margin: 0 100px;
 }
 
-.cards__item:nth-of-type(5) {
-  margin: 0 100px;
-}
